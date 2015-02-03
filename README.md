@@ -13,3 +13,5 @@ Simple external tool for IDEA+Go language plugin. Just run "go install" for sele
 # How use
 1. Select the file you want to install
 - In right menu select External Tools->GoBuilder
+
+
